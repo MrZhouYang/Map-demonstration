@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>worldmap.png</file>
+        <file>localmap.png</file>
+        <file>map1.png</file>
+        <file>port.jpg</file>
+        <file>submarine_to_left.jpg</file>
+        <file>submarine_to_right.jpg</file>
+        <file>submarine_to_down.png</file>
+        <file>submarine_to_up.png</file>
+    </qresource>
+</RCC>
